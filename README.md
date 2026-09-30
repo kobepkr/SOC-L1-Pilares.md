@@ -2,7 +2,7 @@
 
 | # | Pilar | ¿Lo domino? | Notas |
 |---|-------|-------------|-------|
-| 1 | Triaje de Alertas | 0  | Se trabajo el triaje con la creación de una ficha  con información para practicar un reporte de alerta.
+| 1 | Triaje de Alertas | si | Se trabajo el triaje con la creación de una ficha  con información para practicar un reporte de alerta.
 | 2 | SIEM (Splunk/ELK) | 
 | 3 | Logs de Windows | 
 | 4 | Logs de Linux | 
